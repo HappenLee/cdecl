@@ -1,0 +1,3 @@
+/home/happen/CLionProjects/cdecl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/happen/CLionProjects/cdecl/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/happen/CLionProjects/cdecl/cmake-build-debug/CMakeFiles/cdecl.dir
