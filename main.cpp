@@ -19,6 +19,11 @@ void classify(token &t) {
         t.type = QUALIFIER;
         return;
     }
+    if(t.content == "static") {
+        t.content = "static";
+        t.type = QUALIFIER;
+        return;
+    }
 
     if(t.content == "volatile") {
         t.type = QUALIFIER;
